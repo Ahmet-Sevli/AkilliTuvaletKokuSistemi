@@ -1,5 +1,8 @@
 # IoT-Based Smart Sanitation and Automated Odor Control System
 
+link:https://akillituvaletsistemi.netlify.app/
+
+
 This project is an integrated **IoT and Embedded Systems** solution designed to automate sanitation processes and manage indoor air quality (odor control) in public or private restrooms. It combines real-time data tracking via **Firebase** with autonomous hardware triggers.
 
 ---
